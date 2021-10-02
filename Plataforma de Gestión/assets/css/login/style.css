@@ -1,0 +1,20 @@
+body, html {
+    height: 100%;
+}
+
+.nohover:hover {
+    color: white!important;
+}
+
+.bg-sign {
+    /* The image used */
+    background-image: url("../../img/ioa_overview.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
